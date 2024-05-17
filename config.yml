@@ -9,6 +9,7 @@ accounts:
   coins:
   - 10000token
   - 100000000stake
+- address: abcd
 client:
   openapi:
     path: docs/static/openapi.yml
